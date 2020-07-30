@@ -81,6 +81,10 @@ main {
   margin-bottom: 50px;
 }
 
+input[type=range] {
+  width: 90%;
+}
+
 .player {
   text-align: center;
   display: flex;
